@@ -10,6 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Aplikasiresponsifintech">
         <activity
+            android:name=".SplashScreen" />
+        <activity
             android:name=".RecoveryActivity"
             android:exported="false" />
         <activity
